@@ -11,6 +11,8 @@
 		1E0293612EB30EF60069DC68 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0293602EB30EF60069DC68 /* ContentView.swift */; };
 		1E0293632EB30EF80069DC68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0293622EB30EF80069DC68 /* Assets.xcassets */; };
 		1E0293662EB30EF80069DC68 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0293652EB30EF80069DC68 /* Preview Assets.xcassets */; };
+		1E02936D2EB312350069DC68 /* GlassViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E02936C2EB312350069DC68 /* GlassViewModel.swift */; };
+		1E02936F2EB3123C0069DC68 /* GlassView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E02936E2EB3123C0069DC68 /* GlassView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		1E0293602EB30EF60069DC68 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1E0293622EB30EF80069DC68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E0293652EB30EF80069DC68 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1E02936C2EB312350069DC68 /* GlassViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassViewModel.swift; sourceTree = "<group>"; };
+		1E02936E2EB3123C0069DC68 /* GlassView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				1E0293602EB30EF60069DC68 /* ContentView.swift */,
 				1E0293622EB30EF80069DC68 /* Assets.xcassets */,
 				1E0293642EB30EF80069DC68 /* Preview Content */,
+				1E02936C2EB312350069DC68 /* GlassViewModel.swift */,
+				1E02936E2EB3123C0069DC68 /* GlassView.swift */,
 			);
 			path = GlassButtoniOS26;
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E0293612EB30EF60069DC68 /* ContentView.swift in Sources */,
+				1E02936D2EB312350069DC68 /* GlassViewModel.swift in Sources */,
 				1E02935F2EB30EF60069DC68 /* GlassButtoniOS26App.swift in Sources */,
+				1E02936F2EB3123C0069DC68 /* GlassView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
